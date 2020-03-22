@@ -58,7 +58,8 @@
 }
 
 .sidenav2 p{
-    font:normal 18px Helvetica, sans-serif;
+  float:right;  
+  font:normal 18px Helvetica, sans-serif;
     color:#fff;
     text-align:left;
     width:100px vw;
