@@ -142,23 +142,8 @@
     height: 30px;
 }
 
-.box-8{
-    font: normal 14px Helvetica, sans-serif;
-    color:#9CA2A5;
-}
-
-.box-8 a1{
-    padding:20px;
-}
-
-.box-8 a1:hover{
-    border: solid #9CA2A5;
-    border-radius:25px;
-    height:40px;
-}
-
 .box-8 a{
-    padding:20px;
+    padding:10px;
 }
 
 .box-8 a:hover{
