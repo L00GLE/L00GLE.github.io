@@ -92,3 +92,12 @@
     color: #FF6E6E;
     text-decoration: underline;
 }
+
+body {
+    width: 320px;
+    font: 12pt Helvetica, sans-serif;
+}
+
+img, table {
+    max-width: 320px;
+}
