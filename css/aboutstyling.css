@@ -51,9 +51,10 @@
 
 .box-2{
     margin:200px;
-  
-.box p{
-    align:right;
+}
+
+p{
+  align:right;
     font:normal 18px Helvetica, sans-serif;
     color:#fff;
     text-align:left;
