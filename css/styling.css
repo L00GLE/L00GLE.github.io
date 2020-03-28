@@ -147,7 +147,7 @@
 }
 
 .box-8 a1{
-    padding:20px;
+    padding:0px;
 }
 
 .box-8 a1:hover{
@@ -166,17 +166,23 @@
     height:40px;
 }
 
-.footer {
+.box-9{
+    margin:100px;
+}
+
+.navbar {
   background-color: #24A1EE;
-  padding: 10px;
+  padding: 0px;
   font: normal 18px Helvetica, sans-serif;
   color:#fff;
   text-align:center;
   border:solid #24A1EE;
   border-radius: 25px;
+  bottom: 0;
+  width: 100%;
 }
 
-.footer a{
+.navbar a{
   font: normal 18px Helvetica, sans-serif;
   color:#fff;
   text-align:center;
@@ -184,7 +190,7 @@
   margin: 10px;
 }
 
-.footer a:hover{
+.navbar a:hover{
     color: #FF6E6E;
     text-decoration: underline;
 }
