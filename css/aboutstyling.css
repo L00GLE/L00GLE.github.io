@@ -50,7 +50,7 @@
 }
 
 .box-2{
-    margin:300px;
+    margin:200px;
 }
 
 .box-2 p{
@@ -60,7 +60,7 @@
    text-align:left;
    width:600px;
    height:200px;
-   padding:0px;
+   padding:10px;
    border: solid #fff;
    border-radius:25px;
    background:#24A1EE;
