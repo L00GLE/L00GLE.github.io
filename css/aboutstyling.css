@@ -58,7 +58,7 @@
 }
 
 .sidenav2 p{
-    float:right;
+    margin:10px;
     font:normal 18px Helvetica, sans-serif;
     color:#fff;
     text-align:left;
@@ -70,18 +70,17 @@
     background:#24A1EE;
 }
 
-.navbar {
+.footer {
   background-color: #24A1EE;
-  padding: 0px;
+  padding: 10px;
   font: normal 18px Helvetica, sans-serif;
   color:#fff;
   text-align:center;
   border:solid #24A1EE;
   border-radius: 25px;
-  width: 100%;
 }
 
-.navbar a{
+.footer a{
   font: normal 18px Helvetica, sans-serif;
   color:#fff;
   text-align:center;
@@ -89,11 +88,7 @@
   margin: 10px;
 }
 
-.box-2{
-    margin:200px;
-}
-
-.navbar a:hover{
+.footer a:hover{
     color: #FF6E6E;
     text-decoration: underline;
 }
