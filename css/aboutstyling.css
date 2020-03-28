@@ -49,7 +49,10 @@
     padding:20px;
 }
 
-.sidenav2 p{
+.box-2{
+    margin:200px;
+  
+.box p{
     align:right;
     font:normal 18px Helvetica, sans-serif;
     color:#fff;
@@ -60,10 +63,6 @@
     border: solid #fff;
     border-radius:25px;
     background:#24A1EE;
-}
-
-.box-2{
-    margin:200px;
 }
 
 .navbar {
