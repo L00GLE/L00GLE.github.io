@@ -54,13 +54,12 @@
 }
 
 .box-2 p{
-   align:right;
    font:normal 18px Helvetica, sans-serif;
    color:#fff;
    text-align:left;
    width:600px;
    height:190px;
-   padding:20px;
+   padding:10px;
    border: solid #fff;
    border-radius:25px;
    background:#24A1EE;
